@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I’m a graduate of the University of Tehran with a B.Sc. in Cell and Molecular Biology and a minor in Computer Science.
 
-🔭Passionate about bioinformatics, systems biology and computational analysis of biological data.
+🔭 Passionate about bioinformatics, systems biology and computational analysis of biological data.
 
 📫 How to reach me:
 
