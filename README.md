@@ -1,4 +1,4 @@
-## Hi there 👋I'm Baharan.
+## Hi there! I'm Baharan👋
 
 <!--
 **BaharanArbabi/BaharanArbabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
