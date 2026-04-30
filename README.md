@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I'm Baharan.
 
 <!--
 **BaharanArbabi/BaharanArbabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a graduate of the University of Tehran with a B.Sc. in Cell and Molecular Biology and a minor in Computer Science. Passionate about bioinformatics, systems biology and computational analysis of biological data.
+
+📫 How to reach me:
+
+Email: bhranarbabi@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/baharan-arbabi-a67b00261
