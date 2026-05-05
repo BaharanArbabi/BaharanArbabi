@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a graduate of the University of Tehran with a B.Sc. in Cell and Molecular Biology and a minor in Computer Science.
-
-🔭 Passionate about bioinformatics, systems biology and computational analysis of biological data.
+🎓 I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Molecular Biology** and a minor in **Computer Science**.  
+💻 I have hands-on experience in **Python**, **C/C++** and **SQL**.  
+🔭 I’m passionate about **bioinformatics**, **systems biology**, and the **computational analysis of biological data**.  
+🧬 I’m interested in using computational approaches to better understand complex biological systems.
+### Areas of Interest
+- Bioinformatics
+- Systems Biology
+- Computational Biology
+- Biological Data Analysis
+- Machine Learning for Life Sciences
 
 📫 How to reach me:
 
