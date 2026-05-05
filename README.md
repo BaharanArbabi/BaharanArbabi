@@ -2,8 +2,8 @@
 
 ### Hi there 👋 I’m Baharan.
 
-🎓I’m a graduate of the University of Tehran with a B.Sc. in Cell and Molecular Biology and a minor in Computer Science. 
-🧬 I’m interested in applying computational methods to understand complex biological systems.
+🎓 I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Molecular Biology** and a minor in **Computer Science**.
+🧬 I’m interested in using computational approaches to better understand complex biological systems.
 
 <br/>
 
@@ -39,12 +39,6 @@ I’ve built end-to-end analysis workflows, including:
 
 ---
 
-## 🧠 Algorithms & Modeling
-
-- **Dynamic programming**
-- **Hidden Markov Models (HMMs)** for sequence modeling/analysis
-
----
 
 ## 🧰 Tools & Workflow
 
@@ -58,6 +52,18 @@ I’ve built end-to-end analysis workflows, including:
 - Biological statistics and interpretation
 - **SPSS** for data analysis & reporting
 - Study design / analysis support with computational + statistical approaches
+
+---
+
+
+## 📚 Computer Science Coursework
+
+| Course Title | Focus Areas |
+| :--- | :--- |
+| **Artificial Intelligence (AI)** | ML Fundamentals, Supervised/Unsupervised Learning |
+| **Data Mining** | Feature Engineering, Pattern Recognition, Data Preprocessing |
+| **Database** | Relational Algebra, Schema Design, Query Optimization |
+
 
 ---
 
