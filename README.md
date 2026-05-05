@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I’m Baharan.
 
-🎓 I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Molecular Biology** and a minor in **Computer Science**. I’m interested in using computational approaches to better understand complex biological systems.🧬
+I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Molecular Biology** and a minor in **Computer Science**. I’m interested in using computational approaches to better understand complex biological systems.
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Bioinformatics & Computational Genomics
+## 🧬 Bioinformatics & Computational Genomics
 
 I’ve built end-to-end analysis workflows, including:
 
