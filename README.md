@@ -7,7 +7,6 @@
 <br/>
 
 </div>
-
 ---
 
 <div align="center">
@@ -66,6 +65,3 @@ I’ve built end-to-end analysis workflows, including:
 - Computational Biology
 - Biological Data Analysis
 - Machine Learning for Life Sciences
-
----
-
