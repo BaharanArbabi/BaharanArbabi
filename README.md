@@ -33,7 +33,7 @@ I’ve built end-to-end analysis workflows, including:
 - **Read mapping** (aligning reads to reference genomes)
 - **SNP analysis** and **comparative genomics**
 - **Protein structure modeling**, including **AlphaFold**-related workflows
-- 
+  
 ## 📊 Biostatistics & Analysis
 
 - Biological statistics and interpretation
