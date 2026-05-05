@@ -2,8 +2,8 @@
 
 ### Hi there 👋 I’m Baharan.
 
-🎓 B.Sc. Cell & Molecular Biology (University of Tehran)  
-💻 Minor in Computer Science(University of Tehran)
+🎓I’m a graduate of the University of Tehran with a B.Sc. in Cell and Molecular Biology and a minor in Computer Science. 
+🧬 I’m interested in applying computational methods to understand complex biological systems.
 
 <br/>
 
