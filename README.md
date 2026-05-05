@@ -50,12 +50,12 @@ I’ve built end-to-end analysis workflows, including:
 
 ---
 
-🎓 **Computer Science Coursework**
+## 🎓 Computer Science Coursework
 
+- Basic and Advanced Programming
 - Artificial Intelligence
 - Data Mining
 - Databases
-- Basic and Advanced Programming
 - Bioinformatics
 
 ---
@@ -68,8 +68,4 @@ I’ve built end-to-end analysis workflows, including:
 - Machine Learning for Life Sciences
 
 ---
-
-## 📫 Contact
-Email: **bhranarbabi@gmail.com**  
-LinkedIn: https://www.linkedin.com/in/baharan-arbabi-a67b00261
 
