@@ -25,20 +25,13 @@ I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Mole
 ## 🧬 Bioinformatics & Computational Genomics
 
 I’ve built end-to-end analysis workflows, including:
-
-- **NCBI** dataset retrieval & downstream analysis
-- **Short-read sequencing** analysis
-- **Quality control (QC)** and preprocessing
-- **Genome assembly** (creating assemblies from sequencing data)
-- **Read mapping** (aligning reads to reference genomes)
-- **SNP analysis** and **comparative genomics**
-- **Protein structure modeling**, including **AlphaFold**-related workflows
+- **NGS Workflows:** End-to-end analysis from NCBI retrieval to downstream interpretation.
+- **Genomics:** Short-read QC, De Novo Assembly, Read Mapping, SNP/Variant Analysis.
+- **Structural Biology:** Protein structure modeling using AlphaFold pipelines.
   
 ## 📊 Biostatistics & Analysis
-
-- Biological statistics and interpretation
-- **SPSS** for data analysis & reporting
-- Study design / analysis support with computational + statistical approaches
+- Statistical design and analysis using SPSS/R/Python.
+- Translating statistical results into biological insights.
 
 ---
 
