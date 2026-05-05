@@ -35,23 +35,28 @@ I’ve built end-to-end analysis workflows, including:
 - **Read mapping** (aligning reads to reference genomes)
 - **SNP analysis** and **comparative genomics**
 - **Protein structure modeling**, including **AlphaFold**-related workflows
-
----
-
-
-## 🧰 Tools & Workflow
-
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /><img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />
-
-
----
-
+- 
 ## 📊 Biostatistics & Analysis
 
 - Biological statistics and interpretation
 - **SPSS** for data analysis & reporting
 - Study design / analysis support with computational + statistical approaches
 
+---
+
+## 🧰 Tools & Workflow
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /><img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />
+
+---
+
+🎓 **Computer Science Coursework**
+
+- Artificial Intelligence
+- Data Mining
+- Databases
+- Basic and Advanced Programming
+- Bioinformatics
 
 ---
 
