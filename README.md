@@ -22,19 +22,6 @@ I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Mole
 
 ---
 
-## 🧬 Bioinformatics & Computational Genomics
-
-I’ve built end-to-end analysis workflows, including:
-- **NGS Workflows:** End-to-end analysis from NCBI retrieval to downstream interpretation.
-- **Genomics:** Short-read QC, De Novo Assembly, Read Mapping, SNP/Variant Analysis.
-- **Structural Biology:** Protein structure modeling using AlphaFold pipelines.
-  
-## 📊 Biostatistics & Analysis
-- Statistical design and analysis using SPSS/R/Python.
-- Translating statistical results into biological insights.
-
----
-
 ## 🧰 Tools & Workflow
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /><img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -44,15 +31,9 @@ I’ve built end-to-end analysis workflows, including:
 
 ---
 
-## 🎓 Computer Science Coursework
-
- Basic and Advanced Programming, Artificial Intelligence, Data Mining, Databases, Bioinformatics
- 
----
-
 ## 📌 Focus Areas
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-563D7C?style=flat)
-- Systems Biology
-- Computational Biology
-- Biological Data Analysis
-- Machine Learning for Life Sciences
+![Machine Learning for Life Sciences](https://img.shields.io/badge/Machine_Learning_for_Life_Sciences-4285F4?style=flat)
+![Systems Biology](https://img.shields.io/badge/Systems_Biology-blue)
+![Computational Biology](https://img.shields.io/badge/Computational_Biology-563D7C?style=flat)
+![Biological Data Analysis](https://img.shields.io/badge/Biological_Data_Analysis-4285F4?style=flat)
