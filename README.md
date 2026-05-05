@@ -37,17 +37,28 @@ I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Mole
 Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
  - Basic Programming:
+   
  - Advanced Programming:
+   
  - Artificial Intelligence:
+   
  - Data Mining:
- - Databases: 
+   
+ - Databases:
+   
 - Bioinformatics:
  I’ve built end-to-end analysis workflows, including:
+
   **NGS Workflows:** End-to-end analysis from NCBI retrieval to downstream interpretation.
+  
   **Genomics:** Short-read QC, De Novo Assembly, Read Mapping, SNP/Variant Analysis.
+  
   **Structural Biology:** Protein structure modeling using AlphaFold pipelines.
+  
  - Biostatistics:
+ - 
     Statistical design and analysis using SPSS/R/Python.
+   
    Translating statistical results into biological insights.
  
 ---
