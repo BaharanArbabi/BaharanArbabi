@@ -48,12 +48,8 @@ I’ve built end-to-end analysis workflows, including:
 
 ## 🧰 Tools & Workflow
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" />
-<img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />
-- [![AlphaFold](https://img.shields.io/badge/AlphaFold-Protein%20Structure%20Modeling-blue?logo=alphafold&style=for-the-badge)](https://alphafold.ebi.ac.uk/)
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /><img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />
+
 
 ---
 
