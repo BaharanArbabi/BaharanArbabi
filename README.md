@@ -45,12 +45,8 @@ I’ve built end-to-end analysis workflows, including:
 
 ## 🎓 Computer Science Coursework
 
-- Basic and Advanced Programming
-- Artificial Intelligence
-- Data Mining
-- Databases
-- Bioinformatics
-
+ Basic and Advanced Programming, Artificial Intelligence, Data Mining, Databases, Bioinformatics
+ 
 ---
 
 ## 📌 Focus Areas
