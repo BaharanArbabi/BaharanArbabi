@@ -47,7 +47,7 @@ Throughout my education, I’ve taken various courses and completed a wide range
  - Databases: 
    
 - Bioinformatics:
-- 
+  
  I’ve built end-to-end analysis workflows, including:
 
   **NGS Workflows:** End-to-end analysis from NCBI retrieval to downstream interpretation.
