@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 - Biological Data Analysis
 - Machine Learning for Life Sciences
 
-📫 How to reach me:
-
-Email: bhranarbabi@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/baharan-arbabi-a67b00261
+### How to Reach Me
+- Email: bhranarbabi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/baharan-arbabi-a67b00261
