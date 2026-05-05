@@ -37,7 +37,7 @@ I’ve built end-to-end analysis workflows, including:
 
 ## 🧰 Tools & Workflow
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /><img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" />![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/OLIGO7-1F4E79?style=flat&logo=biovia&logoColor=white" /> <img src="https://img.shields.io/badge/SPSS-1A73E8?style=flat&logo=ibm&logoColor=white" /> ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
