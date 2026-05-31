@@ -41,9 +41,11 @@ Throughout my education, I’ve taken various courses and completed a wide range
  - Advanced Programming:
    
  - Artificial Intelligence:
+  [Link](https://github.com/BaharanArbabi/AI-Course)
    
  - Data Mining:
-   
+   [Link](https://github.com/BaharanArbabi/Data-Mining-Course)
+
  - Databases: 
    
 - Bioinformatics:
