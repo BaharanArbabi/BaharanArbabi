@@ -37,8 +37,10 @@ I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Mole
 Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
  - Basic Programming:
+   [Paymant app](https://github.com/BaharanArbabi/Payment-app)
    
  - Advanced Programming:
+   [Master game](https://github.com/BaharanArbabi/Master-game)
    
  - Artificial Intelligence:
   [Link](https://github.com/BaharanArbabi/AI-Course)
@@ -46,9 +48,10 @@ Throughout my education, I’ve taken various courses and completed a wide range
  - Data Mining:
    [Link](https://github.com/BaharanArbabi/Data-Mining-Course)
 
- - Databases: 
+ - Databases
    
 - Bioinformatics:
+  [Link](https://github.com/BaharanArbabi/Bioinformatics-project)
   
    I’ve built end-to-end analysis workflows, including:
 
