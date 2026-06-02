@@ -37,7 +37,7 @@ I’m a graduate of the **University of Tehran** with a **B.Sc. in Cell and Mole
 Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
  - Basic Programming:
-   [Paymant app](https://github.com/BaharanArbabi/Payment-app)
+   [Payment app](https://github.com/BaharanArbabi/Payment-app)
    
  - Advanced Programming:
    [Master game](https://github.com/BaharanArbabi/Master-game)
